@@ -1,0 +1,6 @@
+
+1.Employ load balancer and firewall.
+2.Delete and attack earily mitigate the damage beyond that point.
+3.Switch to cloud service provide in AWS and Azure.
+4.Allovate more bandwidth to prevente logging of data.
+5.Using content delivery network that have redundant service.
